@@ -39,17 +39,17 @@
   <minorEdit>false</minorEdit>
   <syntaxId>plain/1.0</syntaxId>
   <hidden>true</hidden>
-  <content>### Missing: admin.pagepreview=
-### Missing: XWiki.PagePreviewerConfigClass_activate=
-### Missing: XWiki.PagePreviewerConfigClass_previewwikilinks=
-### Missing: XWiki.PagePreviewerConfigClass_previewglossary=
-### Missing: XWiki.PagePreviewerConfigClass_previewmenu=
-### Missing: XWiki.PagePreviewerConfigClass_previewsearch=
-### Missing: XWiki.PagePreviewerConfigClass_previewselector=
-### Missing: XWiki.PagePreviewerConfigClass_maxblocks=
-### Missing: XWiki.PagePreviewerConfigClass_validtags=
-### Missing: XWiki.PagePreviewerConfigClass_thumbnails=
-### Missing: XWiki.PagePreviewerConfigClass_width=
-### Missing: XWiki.PagePreviewerConfigClass_height=
+  <content>admin.pagepreview=Forhåndsvisning af sider
+XWiki.PagePreviewerConfigClass_activate=Aktivér forhåndsvisning
+XWiki.PagePreviewerConfigClass_previewwikilinks=Forhåndsvis wikilinks
+XWiki.PagePreviewerConfigClass_previewglossary=Forhåndsvis ordlisteopslag
+XWiki.PagePreviewerConfigClass_previewmenu=Forhåndsvis menupunkter
+XWiki.PagePreviewerConfigClass_previewsearch=Forhåndsvis søgeresultater
+XWiki.PagePreviewerConfigClass_previewselector=Forhåndsvis elementer, der passer til vælgeren
+XWiki.PagePreviewerConfigClass_maxblocks=Største antal HTML-blokke på øverste niveau
+XWiki.PagePreviewerConfigClass_validtags=Gyldige HTML-tags
+XWiki.PagePreviewerConfigClass_thumbnails=Vis første billede som miniature
+XWiki.PagePreviewerConfigClass_width=Bredde på pop op-boksen
+XWiki.PagePreviewerConfigClass_height=Højde på pop op-boksen
 </content>
 </xwikidoc>
